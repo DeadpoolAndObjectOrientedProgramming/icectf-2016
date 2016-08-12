@@ -1,8 +1,4 @@
-### Challenge info
-Stage: 
-Name:
-
-### Other info
+### Description
 
 ### Solution
-Flag is: 
+Flag is: ``
