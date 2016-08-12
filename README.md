@@ -2,7 +2,7 @@
 A discussion/solution repo for Ice CTF 2016
 
 ## How to use
-* For each problem, no matter how easy or hard it is, a issue needs to be created for it. **Issue should be named `Stage X - Name`, for example `Stage 1 - Hello World` for the first one.
+* For each problem, no matter how easy or hard it is, a issue needs to be created for it. **Issue should be named `Stage X - Name`, for example `Stage 1 - Hello World` for the first one.**
 * For the first simple problems, the issues will just simply say how they were solved.
 * For the harder ones, explanations on how they were solved should be written.
 * The user that is actively working on the problem should self-assign himself the issue.
