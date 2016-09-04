@@ -11,4 +11,4 @@ In this capture the flag competiton you're hunting for these strings, we call th
 
 The flag was in the description.
 
-See #1
+See [#1](https://github.com/ikornaselur/project-firewater/issues/1)
