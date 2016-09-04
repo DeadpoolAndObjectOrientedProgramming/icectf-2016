@@ -11,4 +11,4 @@ DESCRIPTION
 
 WRITE UP
 
-See #ISSUE_NUMBER
+See [#ISSUE_NUMBER](https://github.com/ikornaselur/project-firewater/issues/ISSUE_NUMBER)
