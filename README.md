@@ -1,6 +1,8 @@
 # Ice CTF 2016
 A discussion/solution repo for Ice CTF 2016
 
+If you're visiting from outside the team, feel free to look at the issues, especially the closed ones, to see how the repo was used for the competition.
+
 ## How to use
 * For each problem, no matter how easy or hard it is, a issue needs to be created for it. **Issue should be named `Stage X - Name`, for example `Stage 1 - Hello World` for the first one.**
 * For the first simple problems, the issues will just simply say how they were solved.
